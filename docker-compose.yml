@@ -15,5 +15,5 @@ services:
     environment:
       - POSTGRES_PASSWORD=password
       - POSTGRES_USER=postgres
-      - POSTGRES_DB=transdb
+      - POSTGRES_DB=petstoredb
 
